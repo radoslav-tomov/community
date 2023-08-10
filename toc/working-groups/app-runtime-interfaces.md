@@ -401,7 +401,9 @@ areas:
     github: pivotal-david-osullivan
   reviewers:
   - name: Anthony Dahanne
-    github: anthonydahanne  
+    github: anthonydahanne
+  - name: Radoslav Tomov
+    github: radoslav-tomov    
   repositories:
   - cloudfoundry/cf-java-client
   - cloudfoundry/app-runtime-interfaces-infrastructure
